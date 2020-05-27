@@ -3,9 +3,9 @@ library(plotly)
 library(ggplot2)
 
 
-rsconnect::setAccountInfo(name='rupindermonga',
-                          token='E7983CF5CD6F05979EBCF9AA61EF9925',
-                          secret='he3Jnu0JWu98gPTxI1/UYIQZ8ZL/st+y3t9P0QGp')
+rsconnect::setAccountInfo(name='xxx',
+                          token='xxx',
+                          secret='xxx')
 
 ##### SERVER #####
 
